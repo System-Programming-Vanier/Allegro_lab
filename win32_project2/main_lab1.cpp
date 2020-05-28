@@ -5,7 +5,7 @@
  * Name:	Lab1, Introduction to the Allegro library
  *
  * Description: To complete ...
- *
+ * 
  * REVISION HISTORY:
  *~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
  * Author  	Date                	Comments on this revision
