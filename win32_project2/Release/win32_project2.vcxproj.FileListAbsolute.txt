@@ -1,0 +1,1 @@
+C:\serge\Vanier\courses\247-308-VA Advanced Embedded Systems Programming\projects\Visual_studio_Allegro\lab1_VS_2019\win32_project2\Release\win32_project2.vcxprojAssemblyReference.cache
