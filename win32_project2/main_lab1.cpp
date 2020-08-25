@@ -1,6 +1,6 @@
 
 /******************************************************************************
- * FileName:	main.c
+ * FileName:	main.c 
  *
  * Name:	Lab1, Introduction to the Allegro library
  *
