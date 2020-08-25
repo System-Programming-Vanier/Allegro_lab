@@ -16,7 +16,7 @@
  *
  *****************************************************************************/
 
-#include <allegro.h>
+#include <allegro.h> 
 #include<stdio.h>
 
 int main(void) {
